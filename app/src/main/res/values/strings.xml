@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MAP524 Lab 2</string>
+
+    <string name="hello_me">Hello Andy!</string>
+    <string name="action_settings">Settings</string>
+</resources>
